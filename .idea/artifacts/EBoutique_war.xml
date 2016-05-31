@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="EBoutique:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="eboutique-1.0.0-BUILD-SNAPSHOT.war">
+      <element id="artifact" artifact-name="EBoutique:war exploded" />
+    </root>
+  </artifact>
+</component>
